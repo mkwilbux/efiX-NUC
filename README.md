@@ -1,5 +1,5 @@
 # efiX-NUC
-EFI recommendations for *X and NUC
+EFI suggestions for *X and NUC
 
 
 ARCH
