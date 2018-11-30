@@ -1,5 +1,4 @@
-<!--MarkdownTOC levels ="2,3" autolink="true" style="ordered"-->
-
+[TOC]
 # efiX-NUC
 EFI suggestions for *X and NUC
 
