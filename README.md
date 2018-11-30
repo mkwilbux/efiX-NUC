@@ -1,4 +1,7 @@
-[TOC]
+
+{:toc max_level=3 }
+
+
 # efiX-NUC
 EFI suggestions for *X and NUC
 
