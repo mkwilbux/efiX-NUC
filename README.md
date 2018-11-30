@@ -1,17 +1,4 @@
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
-
-
-
-
-<!-- toc -->
+<!--MarkdownTOC levels ="2,3" autolink="true" style="ordered"-->
 
 # efiX-NUC
 EFI suggestions for *X and NUC
